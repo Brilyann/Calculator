@@ -1,2 +1,12 @@
 class Calculator
-{static void main 
+{
+	static void Main (string[] args)
+	{
+		
+	}
+	static int Penambahan (int a, int b)
+	{
+		return a + b;
+	}
+	
+}
